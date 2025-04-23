@@ -143,6 +143,3 @@ ISR(USART_RX_vect){
 	msg[len] = UDR0;
 	len++;
 }
-
-//test für git
-//noch ein test
