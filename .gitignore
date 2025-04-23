@@ -1,0 +1,9 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/sha-1-atmega-328p/FileContentIndex/43bd644b-43f2-4190-a3c9-c35f28813360.vsidx
+/.vs/sha-1-atmega-328p/v17/Browse.VC.opendb
+/.vs/sha-1-atmega-328p/FileContentIndex/797bc61b-3787-4313-97d3-82dc7d0ca852.vsidx
+/.vs/sha-1-atmega-328p/FileContentIndex/526f2031-4043-4c93-93db-91a5021fad37.vsidx
+*.vsidx
